@@ -1,0 +1,163 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  padding: 0;
+
+}
+
+.bold{
+  font-family: 'Roboto', sans-serif;
+}
+
+.continor{
+  background-color: #edfbfe;
+  background-image: url(../images/bg-hero-desktop.svg);
+  margin: 0;
+  padding: 0;
+}
+
+.logo-top{
+  padding: 3% 5% 3% 3%
+}
+.btn-free{
+  position: relative;
+  margin: 0% 3% 0% 60%;
+  bottom: 60px;
+  border-radius: 25px;
+  border-color: white;
+  background-color: white;
+  color:black;
+  border-width: 0;
+  padding: 1% 4% 1% 4% ;
+  box-shadow: 0px 0px 30px -13px rgba(0,0,0,0.75);
+}
+
+.main-ilustrition{
+  display: flex;
+}
+
+.illustration{
+  width: 50%;
+  height: auto;
+  margin: 0 5% 0 5%;
+}
+
+.contant{
+  margin: 6% 5% 0 5%;
+}
+
+.btn-get-started{
+  color: white;
+  background-color: #fe52c0;
+  border-radius: 25px;
+  padding: 3% 10% 3% 10%;
+  border-width: 0;
+  font-size: 0.7rem;
+
+}
+
+
+.box{
+  display: flex;
+  margin: 10% 5% 0 5%;
+  box-shadow: 0px 0px 30px -13px rgba(0,0,0,0.75);
+  border-radius: 25px;
+}
+
+.illustration-size{
+  width: 25%;
+  height: auto;
+  padding: 3% 3% 3% 3% ;
+}
+
+.main-card{
+  margin: 8% 25% 3% 10%;
+}
+
+.main-card-2{
+  margin: 8% 10% 3% 25%;
+
+}
+
+.margin-box{
+  margin: 3% 5% 0 5%;
+}
+
+.continor-3{
+  margin: 0 30% 0 30%;
+  position: relative;
+  box-shadow: 0px 0px 30px -13px rgba(0,0,0,0.75);
+  border-radius: 25px;
+  background-color: white;
+  text-align: center;
+  top: 40px;
+
+}
+
+.hader{
+  padding: 6% 0 0 0 ;
+}
+.btn-get-started-lg{
+  color: white;
+  background-color: #fe52c0;
+  border-radius: 25px;
+  padding: 3% 10% 3% 10%;
+  border-width: 0;
+  font-size: 0.7rem;
+  margin: 0 0 6% 0;
+}
+.continor-4{
+  background-color: #00252e;
+}
+.logo{
+  width: 10%;
+  height: auto;
+  margin: 6% 3% 3% 6%;
+
+}
+.col{
+  display: flex;
+}
+
+.col-1{
+  color:white;
+
+
+}
+.item-list{
+  display: flex;
+  margin: 6% 25% 0 25%;
+}
+
+.icon{
+  width: 10%;
+  height: 10%;
+  margin: 0 3% 0 3%;
+}
+
+.main-text-bottom{
+  margin: 0 0 0 0 ;
+}
+
+.item-list-a{
+  list-style: none;
+  margin: 20% 0 0 0;
+
+}
+a{
+  outline: none;
+  text-decoration: none;
+  color:white;
+
+}
+
+.margin-lu{
+  margin-top: 40%;
+}
+
+.Copyright{
+  color:white;
+  text-align: right;
+  padding: 3% 3% 3% 3% ;
+  font-size: 1rem;
+}
