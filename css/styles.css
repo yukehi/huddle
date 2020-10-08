@@ -161,3 +161,59 @@ a{
   padding: 3% 3% 3% 3% ;
   font-size: 1rem;
 }
+
+@media screen and (max-width: 600px) {
+
+  .continor{
+    display: flex;
+    flex-direction: column;
+  }
+  .logo-top{
+    width: auto;
+    height: 3%;
+  }
+  .btn-free{
+    margin: 3% 3% 0% 70%;
+  }
+
+  .main-ilustrition{
+    flex-direction: column;
+    justify-content: center;
+  }
+  .main-card-2{
+    margin-left: 20px;
+  }
+
+  .illustration{
+    width: 80%;
+    height: auto;
+    margin: 5% 10% 5% 10%;
+  }
+
+  .illustration-size{
+    width: 40%;
+    height: 40%;
+  }
+  .illustration-grow{
+    position: relative;
+    right: 50px;
+    top: 150px;
+
+  }
+  .illustration-flowing{
+    position: relative;
+    left: 20px;
+    top: 100px;
+
+  }
+  .illustration-your{
+    position: relative;
+    right: 50px;
+    top: 125px;
+
+  }
+  .hader{
+    font-size: 1rem;
+  }
+
+}
